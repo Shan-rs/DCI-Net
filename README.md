@@ -10,6 +10,7 @@ L. Zhang and S. Wang, "Dense Haze Removal Based on Dynamic Collaborative Inferen
 #Dataset
 
 Link: https://pan.baidu.com/s/13aW-khZZcLF3_1ax4H8GXQ?pwd=QW67 
+
 Password: QW67
 
 
