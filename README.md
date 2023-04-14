@@ -1,4 +1,4 @@
-# DCI-Net
+# Dense Haze Removal Based on Dynamic Collaborative Inference Learning for Remote Sensing Images
 remote sensing, hazy dataset
 
 Dense Haze Removal Based on Dynamic Collaborative Inference Learning for Remote Sensing Images
