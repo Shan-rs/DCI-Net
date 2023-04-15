@@ -10,8 +10,13 @@ The paper can be seen in the https://ieeexplore.ieee.org/document/9895281
 Link: https://pan.baidu.com/s/13aW-khZZcLF3_1ax4H8GXQ?pwd=QW67 
 Password: QW67
 
-#Code
+# Pre-trained Model
+1. Download the pre-trained DHID model, put in ./checkpoints
+2. Modified the setting on config.py
+3. python train.py
 
+# Test
+python test.py
 
 
 If our dataset and code are helpful to you, please cite:
