@@ -14,7 +14,7 @@ Password: QW67
 
 # Pre-trained Model
 1. Download the pre-trained DHID model, put in ./checkpoints
-Link: https://pan.baidu.com/s/17fsVMdB-VTcgfAeyGq_5DA   Password: HJ49
+\Link: https://pan.baidu.com/s/17fsVMdB-VTcgfAeyGq_5DA   Password: HJ49
 2. Modified the setting on config.py
 3. python Train.py
 
