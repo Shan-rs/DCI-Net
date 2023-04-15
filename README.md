@@ -3,9 +3,9 @@ remote sensing, hazy dataset
 
 Dense Haze Removal Based on Dynamic Collaborative Inference Learning for Remote Sensing Images
 
-![image](./main/fig2.tif)
+![Dense Haze Removal Based on Dynamic Collaborative Inference Learning for Remote Sensing Images](./main/fig2.tif)
 
-The paper can be seen in the https://ieeexplore.ieee.org/document/9895281
+The paper can be seen in the ！[Paper](https://ieeexplore.ieee.org/document/9895281)
 
 # Dataset
 
@@ -14,7 +14,9 @@ Password: QW67
 
 # Pre-trained Model
 1. Download the pre-trained DHID model, put in ./checkpoints
-\Link: https://pan.baidu.com/s/17fsVMdB-VTcgfAeyGq_5DA   Password: HJ49
+
+Link: https://pan.baidu.com/s/17fsVMdB-VTcgfAeyGq_5DA   Password: HJ49
+
 2. Modified the setting on config.py
 3. python Train.py
 
