@@ -2,7 +2,8 @@
 remote sensing, hazy dataset
 
 Dense Haze Removal Based on Dynamic Collaborative Inference Learning for Remote Sensing Images
-![fig2] (https://github.com/Shan-rs/DCI-Net/blob/main/fig2.tif)
+
+![fig2] (./main/fig2.tif)
 The paper can be seen in the https://ieeexplore.ieee.org/document/9895281
 
 # Dataset
