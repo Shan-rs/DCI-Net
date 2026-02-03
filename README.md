@@ -8,7 +8,6 @@ Dense Haze Removal Based on Dynamic Collaborative Inference Learning for Remote 
 The paper can be seen in the [Paper](https://ieeexplore.ieee.org/document/9895281)
 
 # Dataset
-## Dataset Structure
 
 This project utilizes two primary datasets for training and testing:
 
