@@ -30,10 +30,11 @@ Link: https://pan.baidu.com/s/13aW-khZZcLF3_1ax4H8GXQ?pwd=QW67
 Password: QW67
 
 ## Pre-trained Model
-1. Download the pre-trained DHID model, put in ./checkpoints
+### 1. Download the pre-trained LHID/DHID/RICE/RSID model, put in ./checkpoints
 
-   Link: https://pan.baidu.com/s/17fsVMdB-VTcgfAeyGq_5DA   Password: HJ49
-
+   百度云盘: https://pan.baidu.com/s/17fsVMdB-VTcgfAeyGq_5DA   Password: HJ49
+   GoogleDriver: https://drive.google.com/drive/folders/15SR3IYx8jT6ymLKx9XLU4eJp_X38ugOY?usp=drive_link
+   
 This repository contains the official implementation of DCIL.
 
 ## Environment Requirements
