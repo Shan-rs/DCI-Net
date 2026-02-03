@@ -105,12 +105,19 @@ The `DehazingSet` expects a standard dehazing dataset structure, typically with 
 If our dataset and code are helpful to you, please cite:
 
 @article{zhang2022dense,
+
   title={Dense haze removal based on dynamic collaborative inference learning for remote sensing images},
+  
   author={Zhang, Libao and Wang, Shan},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  
   volume={60},
+  
   pages={1--16},
+  
   year={2022},
+  
   publisher={IEEE}
 }
 
